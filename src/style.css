@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  font-family: "Courgette", cursive;
+  font-size: 30px;
+  margin-top: 30px;
+}
+.main {
+  border-radius: 30px;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+.last {
+  border-radius: 15px;
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+.now {
+  color: rgb(112, 112, 112);
+  font-size: 80px;
+}
+.fri {
+  color: rgb(247, 247, 16);
+  font-size: 50px;
+}
+.days {
+  color: rgb(112, 112, 112);
+  font-size: 50px;
+}
